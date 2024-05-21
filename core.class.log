@@ -1,0 +1,401 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549394897@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F692DB7E11F8415716',
+    participant: undefined
+  },
+  messageTimestamp: 1716269731,
+  pushName: 'im.Digital',
+  broadcast: false,
+  message: Message {
+    conversation: 'Info porfa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Info porfa',
+  from: '5215549394897'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_228b7f79-9077-41ec-b1b1-90cf695aba60',
+  keyword: 'key_5101599d-789d-44bd-bb09-f30a92e74f0a',
+  answer: 'Hola, buen día 😊 ☀️',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b91a590ae58b25f8675bcebd4a23364c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cf7a4aca-a26f-4666-893b-aebcf8124591',
+  keyword: 'ans_228b7f79-9077-41ec-b1b1-90cf695aba60',
+  answer: 'Este es el menú, a continuación escribe el *número de la opción* que deseas consultar: \n' +
+    '1️⃣ Información sobre *plantillas excel*\n' +
+    '2️⃣ Información sobre *Invitaciones*\n' +
+    '3️⃣ Preguntas frecuentes',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5f82b4b5bebdefbc483317952c64b439'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549394897@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09820D9C79125219821',
+    participant: undefined
+  },
+  messageTimestamp: 1716269738,
+  pushName: 'im.Digital',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5215549394897'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_badf420b-73e7-4db9-95bd-fce8182bd77d',
+  keyword: 'key_9ab41372-e74e-4878-85fb-9e3209f20c31',
+  answer: 'Te realizamos tu invitación digital para cualquier ocasión 😃 Bodas 💍, XV años, cumpleaños, bautizos y más 💖\n' +
+    'Tiene un costo de *$500 MXN* te incluye: Información personal de los novios o el de cumpleaños 🎁 lugar de ceremonia, recepción, link de confirmación a un formulario donde puedes consultar quién confirmó asistencia ✅ botón de dirección a Google maps y botón de mesa de regalos (si aplica) por último el código de vestimenta 👗👔',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dcbe0db9c62a5d113db1ea39fc4252e4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2536477e-8793-4a3e-9364-511edafc5fa3',
+  keyword: 'ans_badf420b-73e7-4db9-95bd-fce8182bd77d',
+  answer: 'Posterior al pago se entrega el 3 días hábiles, puedes consultar algunos modelos en el catálogo de mi WhatsApp 😊 o si quieres algún diseño personalizado con gusto te apoyamos ✨',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 3000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '409b32bec654343304a7991ff68de9dc'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7c845dce-f3f1-4524-b3da-600d1b66bdc0',
+  keyword: 'ans_2536477e-8793-4a3e-9364-511edafc5fa3',
+  answer: 'si quieres volver al menú, escribe la palabra "menú" 😊',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '77dd8664f521176e9936afc9a0f8b77d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549394897@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02B7B86C85E18C4BEBE',
+    participant: undefined
+  },
+  messageTimestamp: 1716269766,
+  pushName: 'im.Digital',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menú',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menú',
+  from: '5215549394897'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_228b7f79-9077-41ec-b1b1-90cf695aba60',
+  keyword: 'key_5101599d-789d-44bd-bb09-f30a92e74f0a',
+  answer: 'Hola, buen día 😊 ☀️',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b91a590ae58b25f8675bcebd4a23364c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cf7a4aca-a26f-4666-893b-aebcf8124591',
+  keyword: 'ans_228b7f79-9077-41ec-b1b1-90cf695aba60',
+  answer: 'Este es el menú, a continuación escribe el *número de la opción* que deseas consultar: \n' +
+    '1️⃣ Información sobre *plantillas excel*\n' +
+    '2️⃣ Información sobre *Invitaciones*\n' +
+    '3️⃣ Preguntas frecuentes',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5f82b4b5bebdefbc483317952c64b439'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549394897@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03D3C1E89C88BBCEE65',
+    participant: undefined
+  },
+  messageTimestamp: 1716269770,
+  pushName: 'im.Digital',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5215549394897'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9d97cb29-5185-4ed3-b9ed-ac6ebd47c068',
+  keyword: 'key_f1760f15-2eaf-4de4-b5a5-9abe49c31ea5',
+  answer: 'Actualmente manejamos 2 tipos de plantillas 😃\n' +
+    '1️⃣ ¿Tienes planes de casarte? 💍 tenemos las Plantillas perfectas para organizar tu boda ✨\n' +
+    '2️⃣ ¿Fiesta de XV años? 💃🏼 tenemos la Plantilla ideal para organizar tu evento 🌻',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '42308e86bf9c8241877b03dd8e9c6b02'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b7452d86-24b3-489a-a0bb-8a3f730e35ba',
+  keyword: 'ans_9d97cb29-5185-4ed3-b9ed-ac6ebd47c068',
+  answer: 'Escribe el número de la opción que deseas consultar... ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 5000,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '824fb1d578ca36c69634d5e9f3f3246c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549394897@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0340FAB207F22271CD4',
+    participant: undefined
+  },
+  messageTimestamp: 1716269784,
+  pushName: 'im.Digital',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5215549394897'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bfad41d2-5e33-43f5-be21-34fe7f7338c9',
+  keyword: 'key_f3168a74-0118-4946-bc04-1949bdf9f427',
+  answer: 'Estas son las 2 plantillas de excel sobre *Bodas* que te ofrecemos 🤓 📄\n' +
+    '1️⃣ Plantilla para organizar los invitados y realizar la lista de ellos, tiene un costo de *$70 MXN*\n' +
+    '2️⃣ Plantilla para planificar el presupuesto de tu boda, en el podrás ingresar tus ingresos,proveedores que vas a contratar y al final viene un gráfico que se actualizará automáticamente. Esta plantilla tiene un costo de *$160 MXN*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a1b6658159f8f47bb66b2627b0b6646a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3155b7a5-580f-4dbb-b4db-ef230aeb5e22',
+  keyword: 'ans_bfad41d2-5e33-43f5-be21-34fe7f7338c9',
+  answer: 'Escribe el número de la opción que te interesa comprar... ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 5000,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7ec606611825b4ad42e8e1cd9ab20a75'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549394897@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB094050367C001AC9A40',
+    participant: undefined
+  },
+  messageTimestamp: 1716269802,
+  pushName: 'im.Digital',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5215549394897'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_15669db7-eb2c-4fe7-91b0-b6d197e41740',
+  keyword: 'key_19f7d05e-58d3-4454-a4d0-a2ad4c9f6684',
+  answer: 'Te comparto el link de pago 😃 cuando termines de realizar el pago, automáticamente se te compartira el link de descarga de tu plantilla ⚡️\n' +
+    'https://buy.stripe.com/cN22bn4l22iwfKgbIK',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2478e070b0dc69d4ec9929b48ee15638'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_072f5baf-379c-4df9-affd-1299cf454807',
+  keyword: 'ans_15669db7-eb2c-4fe7-91b0-b6d197e41740',
+  answer: 'De antemano muchas gracias por adquirir una de nuestras plantillas, esperemos te sean de mucha utilidad. Saludos 🤗 ✨',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 5000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'fddc439b7f539bae22c080e660832965'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_37b0a0a7-3d7b-4203-a66b-1de63176a011',
+  keyword: 'ans_072f5baf-379c-4df9-affd-1299cf454807',
+  answer: 'si quieres volver al menú, escribe la palabra "menú" 😊',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8e8c51d5adb00fdaedd569c90446478b'
+}
