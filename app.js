@@ -27,7 +27,7 @@ const flowPlantillasBoda = addKeyword(['1', 'boda']).addAnswer(
     [flowPlantillaBoda1,flowPlantillaBoda2]);
 
 
-const flowPlantillas = addKeyword(['1']).addAnswer(
+const flowPlantillas = addKeyword(['1','1️⃣']).addAnswer(
     ['Actualmente manejamos 2 tipos de plantillas 😃',
     '1️⃣ ¿Tienes planes de casarte? 💍 tenemos las Plantillas perfectas para organizar tu boda ✨',
     '2️⃣ ¿Fiesta de XV años? 💃🏼 tenemos la Plantilla ideal para organizar tu evento 🌻'],
@@ -36,13 +36,17 @@ const flowPlantillas = addKeyword(['1']).addAnswer(
 null,
 [flowPlantillasBoda]);
 
-const flowInvitaciones = addKeyword(['2']).addAnswer(
+const flowInvitacionesPdf = addKeyword(['2','2️⃣']).addAnswer(
     ['Te realizamos tu invitación digital para cualquier ocasión 😃 Bodas 💍, XV años, cumpleaños, bautizos y más 💖',
-    'Tiene un costo de *$500 MXN* te incluye: Información personal de los novios o el de cumpleaños 🎁 lugar de ceremonia, recepción, link de confirmación a un formulario donde puedes consultar quién confirmó asistencia ✅ botón de dirección a Google maps y botón de mesa de regalos (si aplica) por último el código de vestimenta 👗👔']   
-) .addAnswer('Posterior al pago se entrega el 3 días hábiles, puedes consultar algunos modelos en el catálogo de mi WhatsApp 😊 o si quieres algún diseño personalizado con gusto te apoyamos ✨', {delay: 3000},
+    'Tiene un costo de $500 MXN si eres del extranjero tengo liga de pago por PayPal el costo es 27 USD ',
+    'Te incluye: Información personal de los novios o el de cumpleaños 🎁 lugar de ceremonia, recepción, link de confirmación a un formulario donde puedes consultar quién confirmó asistencia ✅ botón de dirección a Google maps y botón de mesa de regalos (si aplica) por último el código de vestimenta 👗👔 Puedes consultar aquí mi catálogo con algunos modelos disponibles 😉']   
+) .addAnswer(['Sigue este enlace para ver nuestro catálogo en WhatsApp: ','https://wa.me/c/5215549394897','Si quieres algún diseño personalizado diferente al del catálogo con gusto te apoyamos ✨'], {delay: 1000},
 null,
-[]).addAnswer('si quieres volver al menú, escribe la palabra "menú" 😊');
-const flowFaq = addKeyword(['3']).addAnswer('Aquí tienes las preguntas más frecuentes que han hecho nuestros clientes 🤓',{media:'https://res.cloudinary.com/uriiicm/image/upload/v1716269350/FAQ_bi2wmp.jpg'}, 
+[]).addAnswer('Posterior al pago te solicito la información para tu invitación y se entrega el 3 días hábiles 🥰 ', {delay: 3000},
+null,
+[]).
+addAnswer('si quieres volver al menú, escribe la palabra "menú" 😊');
+const flowFaq = addKeyword(['3','3️⃣']).addAnswer('Aquí tienes las preguntas más frecuentes que han hecho nuestros clientes 🤓',{media:'https://res.cloudinary.com/uriiicm/image/upload/v1716269350/FAQ_bi2wmp.jpg'}, 
 {delay: 3000},
 []).addAnswer('si quieres volver al menú, escribe la palabra "menú" 😊');
 
@@ -52,12 +56,12 @@ const flowPrincipal = addKeyword(['hola', 'buenas','buenos dias','buen dia','bue
         [
             'Este es el menú, a continuación escribe el *número de la opción* que deseas consultar: ',
             '1️⃣ Información sobre *plantillas excel*',
-            '2️⃣ Información sobre *Invitaciones*',
+            '2️⃣ Información sobre *Invitaciones en PDF*',
             '3️⃣ Preguntas frecuentes'
         ],
         {capture:true},
         null,
-        [flowPlantillas,flowInvitaciones,flowFaq]
+        [flowPlantillas,flowInvitacionesPdf,flowFaq]
     )
 
 const main = async () => {
