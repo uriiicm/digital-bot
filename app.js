@@ -31,7 +31,7 @@ const flowPlantillasBodaTodoEnUno = addKeyword(['1', 'boda']).addAnswer(
     '2.- 5 diferentes plantillas entre ellas la calculadora de alcohol, Checklist del día tu boda con horarios, proveedores y más .🕣',
     '3.- Una plantilla de invitación y tutorial de links de ubicación y formulario de confirmación de asistencia 📊',
     '4.- Además viene de regalo la plantilla en Excel de invitados y organización de mesas 😊 (la plantilla más vendida)',
-    '*Por todo esto el costo es de $300 MXN, adquiérela en este link:* https://buy.stripe.com/28o6rD18Q4qE8hO14a']).
+    '*Por todo esto el costo es de $300 MXN, adquiérela en este link:* https://buy.stripe.com/3cs4jv4l2f5ifKg14b']).
     addAnswer('si quieres volver al menú, escribe la palabra "menú" 😊', {delay: 3000},
     null,
     []);
