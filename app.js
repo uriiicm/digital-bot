@@ -57,9 +57,9 @@ null,
 
 const flowInvitacionesWeb = addKeyword(['2','2️⃣']).addAnswer(
     ['Te realizamos tu *Invitacion web* de boda 💍 XV años 💃 Bautizo, cumpleaños y más 🥳',
-    'Te incluye: Música, cuenta regresiva, link de confirmación (podrás tener en gráficas la confirmación de tus invitados)',
-    'Mesa de regalos🎁 links de ubicación, y sugerencia de hospedaje 🏨 Dress Code, itinerario, pases digitales y galería de fotos 🖼️ diseño en móvil, ¡Tu invitación en página web es posible!', 
-    'Con un costo de $1790 MXN te incluye todo lo mencionado. Si eres del extranjero la liga de pago se adecúa a tu moneda local ☺️']   
+    'Incluye: Música, cuenta regresiva, link de confirmación (podrás tener en gráficas la confirmación de tus invitados)',
+    'Mesa de regalos 🎁 links de ubicación, y sugerencia de hospedaje 🏨 Dress Code, itinerario, pases digitales y más 🖼️ puedes agregar la información que tú quieras!', 
+    'Diseños desde $1200 MXN visita nuestra catálogo, si quieres un diseño totalmente personalizado el costo es de $1790 MXN te incluye todo lo mencionado.  Si eres del extranjero la liga de pago se adecúa a tu moneda local ☺️']   
 ) .addAnswer(['Sigue este enlace para ver nuestro catálogo en WhatsApp: ','https://wa.me/c/5215549394897','Si quieres algún diseño personalizado diferente al del catálogo con gusto te apoyamos ✨'], {delay: 1000},
 null,
 []).addAnswer('Te comparto el link de pago 😃 cuando termines de realizar el pago,automáticamente se te descargará un documento para que ingreses tus datos de la invitación, me lo compartes por aquí para comenzar a diseñar tu invitación ⚡️ https://buy.stripe.com/fZe03f6ta8GU69G149', {delay: 3000},
