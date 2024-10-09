@@ -62,10 +62,7 @@ const flowInvitacionesWeb = addKeyword(['2','2️⃣']).addAnswer(
     'Diseños desde $1200 MXN visita nuestra catálogo, si quieres un diseño totalmente personalizado el costo es de $1790 MXN te incluye todo lo mencionado.  Si eres del extranjero la liga de pago se adecúa a tu moneda local ☺️']   
 ) .addAnswer(['Sigue este enlace para ver nuestro catálogo en WhatsApp: ','https://wa.me/c/5215549394897','Si quieres algún diseño personalizado diferente al del catálogo con gusto te apoyamos ✨'], {delay: 1000},
 null,
-[]).addAnswer('Te comparto el link de pago 😃 cuando termines de realizar el pago,automáticamente se te descargará un documento para que ingreses tus datos de la invitación, me lo compartes por aquí para comenzar a diseñar tu invitación ⚡️ https://buy.stripe.com/fZe03f6ta8GU69G149', {delay: 3000},
-null,
-[]).
-addAnswer('si quieres volver al menú, escribe la palabra "menú" 😊');
+[]).addAnswer('si quieres volver al menú, escribe la palabra "menú" 😊');
 
 const flowInvitacionesPdf = addKeyword(['3','3️⃣']).addAnswer(
     ['Te realizamos tu invitación digital para cualquier ocasión 😃 Bodas 💍, XV años, cumpleaños, bautizos y más 💖',
